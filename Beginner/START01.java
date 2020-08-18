@@ -15,8 +15,8 @@ class Codechef
 	    /* 
 	    Steps:
 	    	1. Create a scanner object to take input.
-		2. Take input from user into an integer variable
-		3. Output integer variable.
+			2. Take input from user into an integer variable
+			3. Output integer variable.
 	    */ 
 
 	    Scanner scanner = new Scanner(System.in);
