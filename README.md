@@ -14,3 +14,5 @@ This repo contains the solutions to Codechef problems in Java and Python.
  |--------------|---------------|----------|------------------------|
  |START01| Beginner | JAVA	| [36876913](https://www.codechef.com/viewsolution/36876913)|
  |START01| Beginner | Python 	| [36888877](https://www.codechef.com/viewsolution/36888877)|
+ |DECINC | Beginner | JAVA	| [36890112](https://www.codechef.com/viewsolution/36890112)|
+ |DECINC | Beginner | Python	| [35890197](https://www.codechef.com/viewsolution/36890197)|
