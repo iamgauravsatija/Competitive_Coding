@@ -1,5 +1,8 @@
 # Competitive_Coding
 
+
+CodeChef username:  <b>[@imgauravsatija](https://www.codechef.com/users/imgauravsatija)</b>
+
 Simple steps in case of fire:
 ```
 1. git add file(s)
