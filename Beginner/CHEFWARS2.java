@@ -7,7 +7,7 @@ import java.io.*;
 /* Name of the class has to be "Main" only if the class is public. */
 
 
-/** @author iamgauravsatija */ 
+/** @author imgauravsatija */ 
 
 
 class Codechef
@@ -29,7 +29,6 @@ class Codechef
 			
 				health = health - power;
 				power = power/2;
-				System.out.println(health + "-" + power);
 
 			}
 

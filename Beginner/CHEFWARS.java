@@ -7,7 +7,18 @@ import java.io.*;
 /* Name of the class has to be "Main" only if the class is public. */
 
 
-/** @author iamgauravsatija */ 
+/** @author imgauravsatija 
+
+
+* 										*
+*										*
+* 	Note: This solution is not working for all the test cases righnow	*
+*										*
+*										*
+
+
+
+*/ 
 
 
 class Codechef
@@ -31,9 +42,11 @@ class Codechef
 		for (int i = 0; i < testCases; i++){
 		
 			int temp = (int) Math.floor( Math.log(health[i])/Math.log(2) ); 
-			if ( power[i] < Math.pow(2, temp) ){
 			
-				System.out.println("0");			
+			System.out.println("Temp: " + temp);
+			if ( power[i] < Math.pow(2, temp-1) ){
+			
+				System.out.println("0 "+ power[i] + " " +Math.pow(2,temp));			
 
 			}else{
 				System.out.println("1");
