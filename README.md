@@ -21,3 +21,4 @@ This repo contains the solutions to Codechef problems in Java and Python.
  |DECINC   | Beginner | Practice  	    | Python | [35890197](https://www.codechef.com/viewsolution/36890197) | N/A |
  |CHEFWARS | Beginner | Challenge- Practice | JAVA   | [37021382](https://www.codechef.com/viewsolution/37021382) | August Long Challenge 2020 Division 2|
  |TEST	   | Easy     | Practice 	    | JAVA   | [37022109](https://www.codechef.com/viewsolution/37022109) | N/A |	
+ |TEST	   | Easy     | Practice	    | Python | [37044265](https://www.codechef.com/viewsolution/37044265) | N/A |	
