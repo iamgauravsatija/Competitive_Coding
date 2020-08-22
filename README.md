@@ -19,8 +19,8 @@ This repo contains the solutions to Codechef problems in Java and Python.
  |START01  | Beginner | Practice	    | Python | [36888877](https://www.codechef.com/viewsolution/36888877) | N/A |
  |DECINC   | Beginner | Practice	    | JAVA   | [36890112](https://www.codechef.com/viewsolution/36890112) | N/A |
  |DECINC   | Beginner | Practice  	    | Python | [35890197](https://www.codechef.com/viewsolution/36890197) | N/A |
- |CHEFWARS | Beginner | Challenge: Practice | JAVA   | [37021382](https://www.codechef.com/viewsolution/37021382) | August 2020 Long Challenge 2020 Division 2|
+ |CHEFWARS | Beginner | Challenge: Practice | JAVA   | [37021382](https://www.codechef.com/viewsolution/37021382) | August 2020 Long Challenge 2020 D2|
  |TEST	   | Easy     | Practice 	    | JAVA   | [37022109](https://www.codechef.com/viewsolution/37022109) | N/A |	
  |TEST	   | Easy     | Practice	    | Python | [37044265](https://www.codechef.com/viewsolution/37044265) | N/A |	
- |CRDGAME3 | Easy     | Challenge: Practice | Python | [37045370](https://www.codechef.com/viewsolution/37045370) | August 2020 Long Challenge Division 2|
-
+ |CRDGAME3 | Easy     | Challenge Practice  | Python | [37045370](https://www.codechef.com/viewsolution/37045370) | August 2020 Long Challenge D2|
+ |COINS	   | Medium   | Challenge Practice  | Python | [37050383](https://www.codechef.com/viewsolution/37050383) | August 2020 Long Challenge D2 |
