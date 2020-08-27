@@ -24,3 +24,5 @@ This repo contains the solutions to Codechef problems in Java and Python.
  |TEST	   | Easy     | Practice	    | Python | [37044265](https://www.codechef.com/viewsolution/37044265) | N/A |	
  |CRDGAME3 | Easy     | Challenge Practice  | Python | [37045370](https://www.codechef.com/viewsolution/37045370) | August 2020 Long Challenge D2|
  |COINS	   | Medium   | Challenge Practice  | Python | [37050383](https://www.codechef.com/viewsolution/37050383) | August 2020 Long Challenge D2 |
+ |FLOW007  | Beginner | DSA Challenge	    | Python | [37050730](https://www.codechef.com/viewsolution/37050730) | DSA learning Contest|
+
